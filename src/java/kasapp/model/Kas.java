@@ -1,7 +1,7 @@
 // Package
 package kasapp.model;
 
-// Dependency
+// Class
 public class Kas {
 
     private int id;
